@@ -525,11 +525,12 @@ color: #000000;
 }
 /*===================================footer*/
 .footer > a > img {
-	border-radius: 40%;
+	border-radius: 20%;
   overflow: hidden;
 	width: 100px;
- 	height: 100px;
-	display: inline-block;
+ 	height: auto;
+	display: block;
+	padding: 5px 0;
 	background-image: none
 
 }
@@ -559,7 +560,7 @@ color: #000000;
 .gallery > img {
 	position: relative;
     width:540px;
-    height: 475px;
+    height: auto;
 		display: inline;
 }
 /*======================form=============*/
@@ -592,4 +593,12 @@ div {
 	border-radius: 5px;
 	background-color: #f2f2f2;
 	padding: 20px;
+}
+
+.resume-body {
+	border-color: #1ed5ff;
+}
+
+.resume {
+	padding-left: 2.5%;
 }
