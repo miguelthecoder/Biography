@@ -760,6 +760,12 @@ padding-left: 5%;
 .projects{
   text-align: center;
 }
+a:active{
+  color: white;
+}
+a{
+  color: white;
+}
 /*.logo {
   float: left;
 }*/
