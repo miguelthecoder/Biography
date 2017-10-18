@@ -477,7 +477,7 @@ template {
 
 h1 {
   font-family: 'Manuale', serif;
-  margin-top: 50px;
+  margin-top: 65px;
   text-align: center;
 }
 h2 {
@@ -544,13 +544,15 @@ footer img{
   height: 12vh;
   border-radius: 80%;
   transition: 1000ms;
+  padding-left:  2%;
+  padding-right: 2%
 }
 footer img:hover{
   transform: scale(1.5) translateX(4px) translateY(5px);
 }
 footer {
   padding-bottom: 2%;
-  padding-left: 5%;
+  padding-left: 15%;
   background: #000000;
   text-align: left;
   color: #fff;
