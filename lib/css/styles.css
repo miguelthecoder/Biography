@@ -573,8 +573,11 @@ footer a:link {
   height: 230px;
   }
   footer img {
-    width: 100px;
-    height: 100px;
+  width: 100px;
+  height: 100px;
+  }
+  .navBar nav ul li{
+  font-size: 67%;
   }
 }
 .bioPhoto{
