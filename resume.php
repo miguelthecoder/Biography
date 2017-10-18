@@ -82,7 +82,7 @@ software development.</p>
 
 	</div>
 	<div class="pdf">
-	<p>Download Click PDF image</p><a href="lib/img/Resumé.docx.pdf"><img src="lib/img/pdf.png" alt="pdf logo"></a>
+	<p>Download Click PDF image</p><a href="lib/img/Resume.docx.pdf" download><img src="lib/img/pdf.png" alt="pdf logo"></a>
 	</div>
 <?php
 	include 'footer.php';
