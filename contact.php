@@ -7,20 +7,20 @@ include 'header.php';
 		<form id="commentForm" action="contact.php" method="POST">
 			<fieldset>
 				<div class="forms">
-					<label for="firstName">
+					<label for="firstName">First Name:
 						<!-- ///minlegth attribute requires a minimun length  -->
 						<input id="firstName" name="name" minlength="2" placeholder="First Name" type="text" required />
 					</label>
-					<label for="lastName">
+					<label for="lastName">Last Name:
 						 <input id="lastName" name="lname"minlength="2" placeholder="Last Name" type="text" required />
 					</label>
-					<label for="email">
+					<label for="email">E-Mail:
 						<input id="email" name="email" placeholder="Email" type="email" required />
 					</label>
-					<label for="phone">
+					<label for="phone">Phone:
 						<input id="phone" name="phone" placeholder="(555)555-5555" type="tel" required />
 					</label>
-					<label for="comment">
+					<label for="comment">Comment:
 					<textarea id="comment" name="comment" placeholder="Enter comments..." required /></textarea>
 					</label>
 					<input type="submit" name="submit" value="submit">

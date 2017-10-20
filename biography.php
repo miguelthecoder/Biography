@@ -10,11 +10,11 @@ include 'header.php';
 		<p>I'm Miguel, from Rocky Mount, NC</p>
 		<p></p>
 		<p> I was raised in Eastern NC, have 3 brothers, a wondeful mother, a niece and a nephew.</p>
-		<p>	Graduated from Northern Nash Senior High-School in 2014.</p>
+		<p>	I graduated from Northern Nash Senior High School in 2014.</p>
 		<p> I had my first job at the age of 15 and I've worked since.</p>
-		<p> love animals, specialy dogs, we have an Australian Shepherd named Kipp.</p>
-		<p>In the course of my life, I been able to meet people with different cultures, custums and languages, which is something I realy love.</p>
-		<p>I Love, to travel meet people and eat different food!</p>
+		<p> I love animals, especialy dogs, we have an Australian Shepherd named Kip.</p>
+		<p>In the course of my life, I have been able to meet people of different cultures, custums and languages, which is something I really love.</p>
+		<p>I love to travel, meet people, and eat different food!</p>
 		</div>
 		<div class="bioPhoto">
 			<figure>

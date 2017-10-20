@@ -7,7 +7,7 @@
 	<link href="lib/css/styles.css" rel="stylesheet" type="text/css">
 	<link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
 	<link rel="script" href="/javascript/script.js">
-<link href="https://fonts.googleapis.com/css?family=Manuale" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Lato:900" rel="stylesheet">
 </head>
 <body>
 	<header>
