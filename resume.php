@@ -5,7 +5,7 @@ include 'header.php';
 	<div class="headingRes">
 		<h1>Miguel A Hernandez Rosas</h1>
 		<h2>2024 Travis Run, Rocky Mount, North Carolina 27804</h2>
-		<h2>Cell: (704) 340-5257</h2>
+		<h2>Cell: (704) 340-4894</h2>
 		<h2>http://mrosas.road2hire.ninja/Biography/</h2>
 		<h2>miguelusaf13@gmail.com</h2>
 	</div>
