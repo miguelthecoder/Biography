@@ -6,7 +6,7 @@
   </div>
   <div class="footer">
     <p>Phone: (704) 340-4894 </p>
-    <p>Email: miguelbpa13@usaf13@gmail.com </p>
+    <p>Email: miguelusaf13@gmail.com </p>
     <p>&copy; 2017 Miguel Hernandez R2Hire</p><a href="contact.php">Contact</a>
   </div>
 </footer>

@@ -4,6 +4,7 @@ include 'header.php';
 <div class="Form">
 		<h1>Comments</h1>
 		<h2>Please fill the form to post your comment!</h2>
+		<div class="formContainer">
 		<form id="commentForm" action="contact.php" method="POST">
 			<fieldset>
 				<div class="forms">
@@ -27,6 +28,7 @@ include 'header.php';
 				</div>
 			</fieldset>
 		</form>
+		</div>
 	</div>
 	<!-- //form validation jquery -->
 	<script
