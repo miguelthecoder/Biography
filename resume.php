@@ -14,7 +14,6 @@ include 'header.php';
 		<p>Throughout my career, I’ve gained a vast amount of experience working in the customer service field and most recently in, software development</p>
 		<p>I’ve done many things, from creating web applications, and managing a retail/grocery store.</p>
 		<p>Life is a school, and you never stop learning is my mantra.</p>
-		<p>Over the next months, I’ll learn more web technologies in coding camp at Red Ventures.</p>
 		<ul>
 			<li>Speak English, Spanish fluently</li>
 			<li>JavaScript, Html, CSS</li>
