@@ -9,7 +9,7 @@ include 'header.php';
 				<a href="http://mrosas.road2hire.ninja/facebookcommentapp/"><img src="lib/img/facebook.png" alt="comment app picture"></a>
 			</div>
 			<div class="final">
-				<h2>Final PHP ecomerce website with mySQL,Css, PHP and Javascript</h2>
+				<h2>Final PHP Ecommerce website with mySQL,Css, PHP and Javascript</h2>
 				<a href="http://mrosas.road2hire.ninja/final/"><img src="lib/img/ecomerce.png" alt="final website picture"></a>
 			</div>
 			<div class="guess">
