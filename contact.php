@@ -111,9 +111,9 @@ include 'header.php';
 	?>
 
 	<!-- include your own success html here -->
-
-	<p>Thank you for contacting me. I will be in touch with you very soon.</p>
-
+	<script type="text/javascript">
+		alert("Thank you for contacting me. I will be in touch with you very soon.");
+	</script>
 	<?php
 
 }
