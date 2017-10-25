@@ -6,14 +6,11 @@
 	<title>Miguel's Bio</title>
 	<link href="lib/css/styles.css" rel="stylesheet" type="text/css">
 	<link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
-	<link rel="script" href="/javascript/script.js">
+	<link rel="stylesheet" href="/javascript/script.js">
 	<link href="https://fonts.googleapis.com/css?family=Lato:900" rel="stylesheet">
 </head>
 <body>
 	<header>
-	<!-- <div class="logo">
-		<a href="index.php"><img src="lib/img/logo.png" alt="miguelLogo"></a>
-	</div> -->
 	<div class="navBar" id="navBar" >
 		<nav>
 			<ul>
@@ -25,5 +22,4 @@
 			</ul>
 		</nav>
 	</div>
-    </div>
  </header>
